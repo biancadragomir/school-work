@@ -1,0 +1,6 @@
+artist1 painting1 1998
+a a 1
+c c 1
+d d 1
+artist2 painting2 1990 19
+b b 1 20

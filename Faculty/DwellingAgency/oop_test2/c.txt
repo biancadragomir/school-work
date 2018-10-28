@@ -1,0 +1,2 @@
+name: smith, salary: 100000, inv. money: 1000, income: 101000
+name: rex, salary: 200000, income: 200000
